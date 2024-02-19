@@ -1,0 +1,1 @@
+# dcsp-test-bmi-safety-docs-in-place
