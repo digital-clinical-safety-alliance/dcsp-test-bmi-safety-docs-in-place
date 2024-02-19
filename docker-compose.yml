@@ -1,0 +1,16 @@
+version: "3.9"
+
+services:
+  bmi-calculator:
+    build: ./dockerfiles/app
+    container_name: bmi-calculator
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./:/bmi-calc
+    env_file:
+      - .env
+    working_dir: /bmi-calc/app
+    entrypoint: bash PID_1.sh
+    #TODO: need to run as non-root at some point
+

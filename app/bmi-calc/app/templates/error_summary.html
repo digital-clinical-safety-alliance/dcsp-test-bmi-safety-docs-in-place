@@ -1,0 +1,17 @@
+{% if form.errors %}
+  <div class="bg-danger p-3 rounded-3 {{ FORM_ELEMENTS_MAX_WIDTH }}">
+    <h2>
+      Please correct the below errors
+    </h2>     
+
+    {% for field in form %}
+      <ul>
+          {% for error in field.errors %}
+          <li>
+            <strong>{{ field.label }}:</strong> {{ error|safe }}
+          </li>
+          {% endfor %}
+      </ul>
+    {% endfor %}
+  </div>
+{% endif %}

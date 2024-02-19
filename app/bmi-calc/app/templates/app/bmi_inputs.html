@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+
+{% block main %}
+  <div class="col-md-6 mx-auto">
+    <div class="{{FORM_ELEMENTS_MAX_WIDTH}}">
+      <h1>
+        BMI data input
+      </h1>
+
+      <div class="accordion max-w-600 mb-3" id="accordionHowWorks">
+        <div class="accordion-item">
+          <h2 class="accordion-header">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+              How does this all work?
+            </button>
+          </h2>
+          <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionHowWorks">
+            <div class="accordion-body">
+              Please provide the height and weight of the person that you are wishing to work out the BMI
+              for. This needs to be an adult. Only cm and kilograms please.
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+      {% include "error_summary.html" %}
+
+      <form action="/" method="post">
+        {% csrf_token %}
+
+        {% for field in form %}
+          <div class="mb-3">
+            <label class="form-label" for="id_{{ field.name }}" id="id_label_{{ field.name }}">
+              {{ field.label | safe }}
+            </label>
+            {{ field }}
+            {% if field.errors %}
+              {% for error in field.errors %}
+                <div id="id_{{ field.name }}" class="invalid-feedback">
+                  {{ error|escape }}
+                </div>
+              {% endfor %}
+            {% endif %}
+          </div>
+        {% endfor %}
+
+        <div align="right">
+          <button class="btn btn-primary ml-auto" type="submit">
+            Submit
+          </button>
+        </div>
+
+      </form>
+    </div>
+  </div>
+    
+{% endblock %}
