@@ -1,7 +1,7 @@
 <!-- [icon] -->
 
 ### Hazard name
-1. Data Breach
+Data Breach
 
 ### General utility label
 1 - Hazard: A hazard which is logged
