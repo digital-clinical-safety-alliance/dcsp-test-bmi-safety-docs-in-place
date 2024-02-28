@@ -34,64 +34,64 @@
 <!-- [iconend] -->
 
 ### Hazard name
-4th Hazard
+Misuse of Personal Health Information
 
-### General Utility label
+### General utility label
 1 - Hazard: A hazard which is logged
+2 - New hazard for triage: A new hazard which needs to be triaged for severity and likelihood, scored and assigned
+3 - Deprecated hazard: A hazard which is no longer considered relevant
 
 ### Likelihood scoring
 2 - Low: Could occur but in the great majority of occasions will not
 
 ### Severity scoring
-2 - Significant: Minor injury, long term, 1; Significant psych. trauma, 1; Minor inj/psych trauma, 2+
+1 - Minor: Minor injury, short term recovery; minor psychological upset; inconvenience; negligible consequence
 
 ### Risk scoring
-2 - Acceptable: Acceptable if cost of further reduction > benefits, or further risk reduction is impractical
+1 - Acceptable: Acceptable, no further action required
 
 ### Description
-
+Misuse of personal health information collected by the app.
 
 ### Cause(s)
-
+Lack of data usage policies, unauthorized access.
 
 ### Effect
-
+Loss of user trust, legal penalties.
 
 ### Hazard
-
+Potential for misuse of personal health information.
 
 ### Harm
-
+Damage to reputation, financial loss.
 
 ### Existing controls
-
+Data usage policies, access controls.
 
 -----
-
 
 ### Assignment
-
+Assigned to the data governance team.
 
 ### Labelling
-
+Data Governance
 
 ### Project
-
+Strengthening Data Usage Policies
 
 -----
 
-
 ### New hazard controls
+Implementing stricter data usage policies and access controls.
 
+### Residual hazard risk assessment
+Risk remains until data usage policy improvements are implemented.
 
-### Residual Hazard Risk Assessment
+### Hazard status
+Under review
 
-
-### Hazard Status
-
-
-### Residual Hazard Risk Assessment
-
+### Residual hazard risk assessment
+Risk remains until data usage policy improvements are implemented.
 
 ### Code associated with hazard
 <!-- [code] -->

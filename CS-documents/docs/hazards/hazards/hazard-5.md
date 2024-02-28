@@ -34,64 +34,62 @@
 <!-- [iconend] -->
 
 ### Hazard name
-5th Hazard
+Inadequate User Consent
 
-### General Utility label
+### General utility label
 2 - New hazard for triage: A new hazard which needs to be triaged for severity and likelihood, scored and assigned
 
 ### Likelihood scoring
-1 - Very low: Negligible or nearly negligible possibility of occurring
+4 - High: Not certain but very possible; reasonably expected to occur in the majority of cases
 
 ### Severity scoring
 3 - Considerable: Severe injury, 1, severe incapacity, recovery expected; Significant psych. trauma, 2+
 
 ### Risk scoring
-2 - Acceptable: Acceptable if cost of further reduction > benefits, or further risk reduction is impractical
+3 - Undesirable: Undesirable level of risk. Attempts should be made to eliminate the hazard or implement controls
 
 ### Description
-
+Failure to obtain adequate user consent for data collection and usage.
 
 ### Cause(s)
-
+Poorly designed consent process, lack of user awareness.
 
 ### Effect
-
+Legal penalties, loss of user trust.
 
 ### Hazard
-
+Potential for inadequate user consent.
 
 ### Harm
-
+Legal penalties, damage to reputation.
 
 ### Existing controls
-
+Consent process, user education.
 
 -----
-
 
 ### Assignment
-
+Assigned to the legal team.
 
 ### Labelling
-
+Legal
 
 ### Project
-
+Improving Consent Process
 
 -----
 
-
 ### New hazard controls
+Implementing a more robust consent process and user education.
 
+### Residual hazard risk assessment
+Risk remains until consent process improvements are implemented.
 
-### Residual Hazard Risk Assessment
+### Hazard status
+Under review
 
-
-### Hazard Status
-
-
-### Residual Hazard Risk Assessment
-
+### Residual hazard risk assessment
+Risk remains until consent process improvements are implemented.
 
 ### Code associated with hazard
 <!-- [code] -->

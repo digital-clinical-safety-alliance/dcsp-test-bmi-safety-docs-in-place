@@ -29,64 +29,63 @@
 <!-- [iconend] -->
 
 ### Hazard name
-Another hazard
+App Downtime
 
-### General Utility label
-
+### General utility label
+1 - Hazard: A hazard which is logged
+3 - Deprecated hazard: A hazard which is no longer considered relevant
 
 ### Likelihood scoring
-2 - Low: Could occur but in the great majority of occasions will not
+1 - Very low: Negligible or nearly negligible possibility of occurring
 
 ### Severity scoring
-1 - Minor: Minor injury, short term recovery; minor psychological upset; inconvenience; negligible consequence
+2 - Significant: Minor injury, long term, 1; Significant psych. trauma, 1; Minor inj/psych trauma, 2+
 
 ### Risk scoring
 1 - Acceptable: Acceptable, no further action required
 
 ### Description
-
+Unplanned downtime of the app causing disruption to users.
 
 ### Cause(s)
-
+Server issues, software bugs.
 
 ### Effect
-
+User dissatisfaction, potential health risks if users rely on the app for health monitoring.
 
 ### Hazard
-
+Potential for app downtime.
 
 ### Harm
-
+User dissatisfaction, potential health risks.
 
 ### Existing controls
-
+Server monitoring, bug tracking system.
 
 -----
-
 
 ### Assignment
-
+Assigned to the operations team.
 
 ### Labelling
-
+Operations
 
 ### Project
-
+Improving App Stability
 
 -----
 
-
 ### New hazard controls
+Implementing more robust server monitoring and bug tracking systems.
 
+### Residual hazard risk assessment
+Risk remains until stability improvements are implemented.
 
-### Residual Hazard Risk Assessment
+### Hazard status
+Under review
 
-
-### Hazard Status
-
-
-### Residual Hazard Risk Assessment
-
+### Residual hazard risk assessment
+Risk remains until stability improvements are implemented.
 
 ### Code associated with hazard
 <!-- [code] -->

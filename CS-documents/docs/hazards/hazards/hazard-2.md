@@ -29,64 +29,63 @@
 <!-- [iconend] -->
 
 ### Hazard name
-asdsd
+Poor User Interface
 
-### General Utility label
-
+### General utility label
+2 - New hazard for triage: A new hazard which needs to be triaged for severity and likelihood, scored and assigned
+3 - Deprecated hazard: A hazard which is no longer considered relevant
 
 ### Likelihood scoring
 1 - Very low: Negligible or nearly negligible possibility of occurring
 
 ### Severity scoring
-1 - Minor: Minor injury, short term recovery; minor psychological upset; inconvenience; negligible consequence
+2 - Significant: Minor injury, long term, 1; Significant psych. trauma, 1; Minor inj/psych trauma, 2+
 
 ### Risk scoring
 1 - Acceptable: Acceptable, no further action required
 
 ### Description
-asdf
+The app's user interface is not intuitive or user-friendly.
 
 ### Cause(s)
-asdf
+Poor design, lack of user testing.
 
 ### Effect
-asdf
+User dissatisfaction, reduced usage of the app.
 
 ### Hazard
-asdf
+Potential for poor user interface.
 
 ### Harm
-asdf
+User dissatisfaction, reduced usage.
 
 ### Existing controls
-asdf
+User testing, feedback mechanisms.
 
 -----
-
 
 ### Assignment
-asdf
+Assigned to the design team.
 
 ### Labelling
-asdf
+Design
 
 ### Project
-asdf
+Improving User Interface
 
 -----
 
-
 ### New hazard controls
-asdf
+Implementing more user testing and feedback mechanisms.
 
-### Residual Hazard Risk Assessment
-asadf
+### Residual hazard risk assessment
+Risk remains until user interface improvements are implemented.
 
-### Hazard Status
-asdf
+### Hazard status
+Under review
 
-### Residual Hazard Risk Assessment
-asdf
+### Residual hazard risk assessment
+Risk remains until user interface improvements are implemented.
 
 ### Code associated with hazard
 <!-- [code] -->

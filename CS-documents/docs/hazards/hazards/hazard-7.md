@@ -34,64 +34,62 @@
 <!-- [iconend] -->
 
 ### Hazard name
-A name for a hazard
+User Privacy Violation
 
-### General Utility label
-2 - New hazard for triage: A new hazard which needs to be triaged for severity and likelihood, scored and assigned
+### General utility label
+1 - Hazard: A hazard which is logged
 
 ### Likelihood scoring
-2 - Low: Could occur but in the great majority of occasions will not
+5 - Very high: Certain or almost certain; highly likely to occur
 
 ### Severity scoring
-3 - Considerable: Severe injury, 1, severe incapacity, recovery expected; Significant psych. trauma, 2+
+5 - Catastrophic: Death, 2+. Severe injury or lifechanging incapacity, 2+
 
 ### Risk scoring
-2 - Acceptable: Acceptable if cost of further reduction > benefits, or further risk reduction is impractical
+5 - Unacceptable: Unacceptable level of risk
 
 ### Description
-
+Invasion of user privacy due to inadequate privacy controls.
 
 ### Cause(s)
-
+Weak privacy settings, lack of user awareness.
 
 ### Effect
-
+Loss of user trust, legal penalties.
 
 ### Hazard
-
+Potential for privacy violations.
 
 ### Harm
-
+Damage to reputation, financial loss.
 
 ### Existing controls
-
+Privacy settings, user education.
 
 -----
-
 
 ### Assignment
-
+Assigned to the privacy team.
 
 ### Labelling
-
+Privacy
 
 ### Project
-
+Privacy Enhancement
 
 -----
 
-
 ### New hazard controls
+Implementing more robust privacy settings and user education.
 
+### Residual hazard risk assessment
+Risk remains until privacy enhancements are implemented.
 
-### Residual Hazard Risk Assessment
+### Hazard status
+Under review
 
-
-### Hazard Status
-
-
-### Residual Hazard Risk Assessment
-
+### Residual hazard risk assessment
+Risk remains until privacy enhancements are implemented.
 
 ### Code associated with hazard
 <!-- [code] -->

@@ -39,15 +39,14 @@
 <!-- [iconend] -->
 
 ### Hazard name
-This is my first hazard
+Lack of Accessibility
 
-### General Utility label
+### General utility label
 1 - Hazard: A hazard which is logged
-
-3 - Deprecated hazard: A hazard which is no longer considered relevant
+2 - New hazard for triage: A new hazard which needs to be triaged for severity and likelihood, scored and assigned
 
 ### Likelihood scoring
-2 - Low: Could occur but in the great majority of occasions will not
+3 - Medium: Possible
 
 ### Severity scoring
 4 - Major: Death, 1; Severe injury or life-changing incapacity, 1; Psychological trauma, 2+
@@ -56,49 +55,47 @@ This is my first hazard
 3 - Undesirable: Undesirable level of risk. Attempts should be made to eliminate the hazard or implement controls
 
 ### Description
-test data
+The app is not fully accessible to users with disabilities.
 
 ### Cause(s)
-test data
+Lack of accessibility features, insufficient testing.
 
 ### Effect
-test data
+Exclusion of users with disabilities, potential legal penalties.
 
 ### Hazard
-test data
+Potential for lack of accessibility.
 
 ### Harm
-test data
+Exclusion of users, legal penalties.
 
 ### Existing controls
-test data
+Accessibility features, user testing.
 
 -----
-
 
 ### Assignment
-test data
+Assigned to the accessibility team.
 
 ### Labelling
-test data
+Accessibility
 
 ### Project
-test data
+Improving Accessibility
 
 -----
 
-
 ### New hazard controls
-test data
+Implementing more robust accessibility features and testing.
 
-### Residual Hazard Risk Assessment
-test data
+### Residual hazard risk assessment
+Risk remains until accessibility improvements are implemented.
 
-### Hazard Status
-test data
+### Hazard status
+Under review
 
-### Residual Hazard Risk Assessment
-test data
+### Residual hazard risk assessment
+Risk remains until accessibility improvements are implemented.
 
 ### Code associated with hazard
 <!-- [code] -->

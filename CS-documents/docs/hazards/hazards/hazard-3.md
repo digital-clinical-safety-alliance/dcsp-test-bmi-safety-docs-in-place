@@ -39,66 +39,64 @@
 <!-- [iconend] -->
 
 ### Hazard name
-3rd hazard
+Inadequate Data Backup
 
-### General Utility label
+### General utility label
 1 - Hazard: A hazard which is logged
-
 2 - New hazard for triage: A new hazard which needs to be triaged for severity and likelihood, scored and assigned
+3 - Deprecated hazard: A hazard which is no longer considered relevant
 
 ### Likelihood scoring
-1 - Very low: Negligible or nearly negligible possibility of occurring
+5 - Very high: Certain or almost certain; highly likely to occur
 
 ### Severity scoring
 2 - Significant: Minor injury, long term, 1; Significant psych. trauma, 1; Minor inj/psych trauma, 2+
 
 ### Risk scoring
-1 - Acceptable: Acceptable, no further action required
+4 - Mandatory-risk-elimination: Mandatory elimination of hazard or addition of controls to reduce risk to an acceptable level
 
 ### Description
-
+Failure to adequately backup user data, leading to potential data loss.
 
 ### Cause(s)
-
+Insufficient backup procedures, technical failures.
 
 ### Effect
-
+Data loss, user dissatisfaction.
 
 ### Hazard
-
+Potential for inadequate data backup.
 
 ### Harm
-
+Data loss, user dissatisfaction.
 
 ### Existing controls
-
+Backup procedures, technical safeguards.
 
 -----
-
 
 ### Assignment
-
+Assigned to the data management team.
 
 ### Labelling
-
+Data Management
 
 ### Project
-
+Improving Data Backup Procedures
 
 -----
 
-
 ### New hazard controls
+Implementing more robust backup procedures and technical safeguards.
 
+### Residual hazard risk assessment
+Risk remains until backup procedure improvements are implemented.
 
-### Residual Hazard Risk Assessment
+### Hazard status
+Under review
 
-
-### Hazard Status
-
-
-### Residual Hazard Risk Assessment
-
+### Residual hazard risk assessment
+Risk remains until backup procedure improvements are implemented.
 
 ### Code associated with hazard
 <!-- [code] -->
