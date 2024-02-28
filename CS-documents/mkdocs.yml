@@ -8,6 +8,10 @@ plugins:
   - macros
   - include-markdown:
       dedent: true
+  - mkdocstrings:
+      handlers:
+        python:
+          paths: [../app/bmi-calc/app, ../app/bmi-calc/app/functions]
 
 theme:
   name: material
