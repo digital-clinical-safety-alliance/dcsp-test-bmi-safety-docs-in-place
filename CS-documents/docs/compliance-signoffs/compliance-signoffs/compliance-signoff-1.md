@@ -1,23 +1,23 @@
-# DCB 0129 compliance assessement
+# DCB 0129 compliance assessment
 
 
 ### Sign-off name
-Start of project
+First sign off at beginning of project
 
 ### Health IT system
 {{ project_name }}
 
 ### Version number
-0.0.0.1
+0.01
 
 ### Release number
-0.0.1
+0.05
 
 ### Date of release
-None
+2024-02-29
 
 ### Release notes
-Start of the project
+Right at the start
 
 -----
 
@@ -65,7 +65,7 @@ Managed via git
 Bob Jones
 
 ### Approved by
-Mike Silvers
+Rob Smith
 
 -----
 
@@ -95,7 +95,10 @@ The text shown in italics in the column Evidence shall be replaced with relevant
 
 
 #### Management system - The Manufacturer has an approved clinical risk management process which is cognisant of the key risk management activities identified in the standard and is readily available to staff
-2 - No
+1 - Yes
+
+<br>
+
 
 ## 2.2. Top management responsibilities
 
@@ -107,16 +110,22 @@ The text shown in italics in the column Evidence shall be replaced with relevant
 1 - Yes
 
 #### Project - For the project being reviewed, evidence shall be referenced which shows Top Management has discharged these obligations
-2 - No
+1 - Yes
 
 #### Project - A Clinical Risk Management Plan has been produced for a given Health IT System and that those responsible for approving the Health IT System and  associated safety documentation are named in the plan
-1 - Yes
+2 - No
+
+<br>
+
 
 ### 2.2.2. Top Management MUST ensure that appropriate levels of authorisation for the Health IT System and its safety documentation are defined in the Clinical Risk Management Plan
 
 
 #### Project - A Clinical Risk Management Plan has been produced for a given Health IT System and that those responsible for approving the Health IT System and  associated safety documentation are named in the plan
 2 - No
+
+<br>
+
 
 ## 2.3. Clinical Safety Officer
 
@@ -125,7 +134,10 @@ The text shown in italics in the column Evidence shall be replaced with relevant
 
 
 #### Project - Evidence of the Clinical Safety Officer's clinical credentials is available
-1 - Yes
+2 - No
+
+<br>
+
 
 ### 2.3.2. A Clinical Safety Officer MUST hold a current registration with an appropriate professional body relevant to their training and experience
 
@@ -133,17 +145,26 @@ The text shown in italics in the column Evidence shall be replaced with relevant
 #### Project - Evidence of the Clinical Safety Officer's valid registration shall be provided
 2 - No
 
+<br>
+
+
 ### 2.3.3. A Clinical Safety Officer MUST be knowledgeable in risk management and its application to clinical domains
 
 
 #### Project - Evidence of the Clinical Safety Officer's risk management knowledge shall be presented
-1 - Yes
+2 - No
+
+<br>
+
 
 ### 2.3.4. A Clinical Safety Officer MUST make sure that the processes defined by the clinical risk management process are followed
 
 
 #### Project - Evidence that the Clinical Safety Officer has ensured that the organisation's clinical risk management process has been followed for the particular Health IT System
 2 - No
+
+<br>
+
 
 ## 2.4. Competencies of personnel
 
@@ -152,16 +173,22 @@ The text shown in italics in the column Evidence shall be replaced with relevant
 
 
 #### Project - Evidence the clinical risk management personnel named for this project have the appropriate knowledge, experience and competencies
-1 - Yes
+2 - No
+
+<br>
+
 
 ### 2.4.2. Competency and experience records for the personnel involved in performing the clinical risk tasks MUST be maintained
 
 
 #### Management system - The Manufacturer has a defined process for maintaining competency records for clinical risk management personnel
-2 - No
+1 - Yes
 
 #### Project - Suitable records are available for the clinical risk management personnel named for the particular Health IT System
-2 - No
+1 - Yes
+
+<br>
+
 
 ## 2.5. Third party products
 
@@ -170,16 +197,22 @@ The text shown in italics in the column Evidence shall be replaced with relevant
 
 
 #### Management system - The Manufacturer has a defined process for assessing third party products
-1 - Yes
+2 - No
 
 #### Project - Evidence available to show  that the inclusion of any third party products has been assessed
-3 - Awaiting
+2 - No
+
+<br>
+
 
 ### 2.5.2. The nature of this assessment MUST be included in Clinical Safety Case Reports
 
 
 #### Project - The third party assessments is provided in all of the Clinical Safety Case Reports
 2 - No
+
+<br>
+
 
 ## 2.6. Regular clinical risk management process review
 
@@ -188,7 +221,7 @@ The text shown in italics in the column Evidence shall be replaced with relevant
 
 
 #### Management system - Evidence is available to show that the clinical risk management process is being regularly reviewed by the organisation. If the clinical risk management process has been in operation for more than one year without review then the assignment [Awaiting] is not permissible; [No] must be selected instead.
-3 - Awaiting
+2 - No
 
 -----
 
@@ -203,16 +236,22 @@ The text shown in italics in the column Evidence shall be replaced with relevant
 
 
 #### Management system - The Manufacturer has a defined process for the retention of safety documentation and has established a mechanism for the safe keeping of safety documentation
-2 - No
+1 - Yes
 
 #### Project - There is a Clinical Risk Management File for the Health IT System
 1 - Yes
+
+<br>
+
 
 ### 3.1.2. The Clinical Risk Management File MUST be maintained for the life of the Health IT System
 
 
 #### Project - Evidence that the Clinical Risk Management File is being maintained for the entirety of the Health IT System
-1 - Yes
+2 - No
+
+<br>
+
 
 ### 3.1.3. All formal documents and evidence of compliance with the requirements of this standard MUST be recorded in the Clinical Risk Management File
 
@@ -220,11 +259,17 @@ The text shown in italics in the column Evidence shall be replaced with relevant
 #### Project - Evidence that all safety documentation related to the Health IT System produced to date has been placed in the Clinical Risk Management File
 2 - No
 
+<br>
+
+
 ### 3.1.4. Any decisions made that influence the clinical risk management activities undertaken MUST be recorded in the Clinical Risk Management File
 
 
 #### Project - Evidence that relevant decisions have been add to the Clinical Risk Management File
 1 - Yes
+
+<br>
+
 
 ## 3.3 Hazard log
 
@@ -241,17 +286,26 @@ The text shown in italics in the column Evidence shall be replaced with relevant
 #### Project - Evidence that the Hazard Log is being actively maintained
 1 - Yes
 
+<br>
+
+
 ### 3.3.2. A Clinical Safety Officer MUST approve each version of the Hazard Log
 
 
 #### Project - The Clinical Safety Officer approved each issue of the Hazard Log for the Health IT System
-1 - Yes
+2 - No
+
+<br>
+
 
 ### 3.3.3. An issued Hazard Log MUST accompany each Clinical Safety Case Report
 
 
 #### Project - The Hazard Log has accompanied each version of the Clinical Safety Case Report.
 1 - Yes
+
+<br>
+
 
 ## 3.4. Clinical safety case
 
@@ -268,6 +322,9 @@ The text shown in italics in the column Evidence shall be replaced with relevant
 #### Project - Evidence that the Clinical Safety Case is being actively maintained
 2 - No
 
+<br>
+
+
 ## 3.5 - Clinical Safety Case Reports
 
 
@@ -275,19 +332,28 @@ The text shown in italics in the column Evidence shall be replaced with relevant
 
 
 #### An approved Clinical Safety Case Report has been produced in accordance with the Clinical Risk Management Plan
-3 - Not applicable
+1 - Yes
+
+<br>
+
 
 ### 3.5.2. A Clinical Safety Officer MUST approve each Clinical Safety Case Report
 
 
 #### Project - The Clinical Safety Officer approved all Clinical Safety Case Reports for the Health IT System as defined in the Clinical Risk Management Plan
-3 - Not applicable
+1 - Yes
+
+<br>
+
 
 ### 3.5.3. The Manufacturer MUST make available each Clinical Safety Case Report to a receiving organisation, which may be a Health Organisation or another Manufacturer
 
 
 #### Project - Every formal issue of the Clinical Safety Case Report has been made available to the Health Organisation. Where no hazards were identified for the Health IT System then the Manufacturer should make the rationale for this decision available to the Health Organisation in lieu of the Clinical Safety Case Report
-2 - No
+3 - Partial
+
+<br>
+
 
 ## 3.6. Safety Incident Management Log
 
@@ -296,10 +362,10 @@ The text shown in italics in the column Evidence shall be replaced with relevant
 
 
 #### The Manufacturer has a defined safety incident management process
-2 - No
+1 - Yes
 
 #### Project - A safety incident management log has been created specifically for the project or the project is recognised in a global  incident log
-3 - Awaiting
+2 - No
 
 #### Project - For all incidents recorded in the log there is evidence which demonstrates they are being actively managed
 2 - No
@@ -317,22 +383,31 @@ The text shown in italics in the column Evidence shall be replaced with relevant
 
 
 #### Management system - The Manufacturer has a defined process for clinical risk analysis
-1 - Yes
+2 - No
 
 #### Project - All of the clinical risk analysis activities defined in the Clinical Risk Management Plan for the Health IT System have been conducted.The process may halt when no hazards are identified for the Health IT System. When this occurs, provided evidence to support this judgement is recorded then [Yes] can be selected
-2 - No
+3 - Awaiting
+
+<br>
+
 
 ### 4.1.2. Clinical risk analysis SHOULD be carried out by a multi-disciplinary group including a Clinical Safety Officer
 
 
 #### Project - There is evidence which shows that the clinical risk analysis has been undertaken by a multi-disciplined group.
-3 - Awaiting
+1 - Yes
+
+<br>
+
 
 ### 4.1.3. The extent of clinical risk analysis MUST be commensurate with the scale, complexity and level of clinical risk associated with the Release
 
 
 #### There is evidence to show that the clinical risk analysis is appropriate to the Release
-2 - No
+3 - Awaiting
+
+<br>
+
 
 ## 4.2. Health IT System scope definition
 
@@ -341,13 +416,19 @@ The text shown in italics in the column Evidence shall be replaced with relevant
 
 
 #### Project - There is evidence to demonstrate that known and foreseeable hazards to patients with respect to the intended use of the Health IT System in both normal and fault conditions have been recorded. Where no hazards have been identified for the Health IT System then the Manufacturer shall record the rationale for this decision
-2 - No
+1 - Yes
+
+<br>
+
 
 ### 4.2.2. The Manufacturer MUST define the intended use of the Health IT System which is to be delivered
 
 
 #### Project - The intended use of the Health IT System has been defined
 1 - Yes
+
+<br>
+
 
 ## 4.3. Identification of hazards to patients
 
@@ -357,6 +438,9 @@ The text shown in italics in the column Evidence shall be replaced with relevant
 
 #### Project - There is evidence to demonstrate that known and foreseeable hazards to patients with respect to the intended use of the Health IT System in both normal and fault conditions have been recorded. Where no hazards have been identified for the Health IT System then the Manufacturer shall record the rationale for this decision
 2 - No
+
+<br>
+
 
 ## 4.4. Estimation of the clinical risks
 
@@ -380,13 +464,16 @@ The text shown in italics in the column Evidence shall be replaced with relevant
 
 
 #### Management system - The Manufacturer has a defined process for the evaluation of clinical risk
-2 - No
+1 - Yes
 
 #### Project - Risk acceptably criteria have been defined in the Clinical Risk Management Plan for the Health IT System
-3 - Awaiting
+1 - Yes
 
 #### Project - There is evidence to demonstrate that clinical risk has been calculated for each hazard in accordance with the defined evaluation process and risk acceptability criteria
-2 - No
+1 - Yes
+
+<br>
+
 
 ### 5.1.2. If the initial clinical risk is acceptable, then the risk control requirements defined in sections 6.1 to 6.3 do not apply to this hazard
 
@@ -407,28 +494,40 @@ The text shown in italics in the column Evidence shall be replaced with relevant
 
 
 #### Management system - The Manufacturer has a defined process for clinical risk control
-1 - Yes
+2 - No
 
 #### Project - There is evidence to demonstrate the identification of clinical risk control measures
-3 - Not applicable
+2 - No
+
+<br>
+
 
 ### 6.1.2. Proposed clinical risk control measures MUST be assessed by the Manufacturer to determine whether: a) new hazards will be introduced as a result of the measures, and b) the clinical risks for previously identified hazards will be affected
 
 
 #### Project - There is evidence to demonstrate that proposed clinical risk control measures have been assessed
-4 - Awaiting
+1 - Yes
+
+<br>
+
 
 ### 6.1.3. The Manufacturer MUST manage any new hazards or increased clinical risks in accordance with sections 4.4 to 6.4
 
 
 #### Project - There is evidence to demonstrate that new hazards or increased risk have been managed in accordance with the stated sections
-2 - No
+1 - Yes
+
+<br>
+
 
 ### 6.1.4. The Manufacturer MUST evaluate the residual clinical risk. This evaluation MUST use the risk acceptability criteria defined in the Clinical Risk Management Plan
 
 
 #### Project - There is evidence to demonstrate that residual clinical risk control has been assessed
-2 - No
+1 - Yes
+
+<br>
+
 
 ### 6.1.5. Where a residual clinical risk is judged unacceptable, the Manufacturer MUST identify additional clinical risk control measures in order to reduce the clinical risk
 
@@ -436,11 +535,17 @@ The text shown in italics in the column Evidence shall be replaced with relevant
 #### There is evidence to demonstrate that additional clinical risk control measured have been considered when the residual clinical risk is judged unacceptable
 2 - No
 
+<br>
+
+
 ### 6.1.6. If the Manufacturer determines that no suitable risk control measures are possible then the Manufacturer MUST conduct a clinical risk benefit analysis of the clinical risk (section 6.2)
 
 
 #### Project - There is evidence of clinical risk benefit analysis for situations when no clinical risk control measures are possible
-2 - No
+1 - Yes
+
+<br>
+
 
 ## 6.2. Clinical risk benefit analysis
 
@@ -449,13 +554,19 @@ The text shown in italics in the column Evidence shall be replaced with relevant
 
 
 #### Project - There is evidence to demonstrate that the clinical benefits of the intended use outweigh the residual clinical risk
-3 - Not applicable
+1 - Yes
+
+<br>
+
 
 ### 6.2.2. If the clinical benefits do not outweigh the residual clinical risk, then the clinical risk remains unacceptable and the project SHOULD be re-appraised
 
 
 #### Project - There is evidence to demonstrate that the project has been re-appraised when the residual clinical risk remains unacceptable. If the development continues following re-appraisal then a justification for this decision, along with the appropriate analysis, shall be recorded
-2 - No
+1 - Yes
+
+<br>
+
 
 ## 6.3. Implementation of clinical risk control measures
 
@@ -464,19 +575,28 @@ The text shown in italics in the column Evidence shall be replaced with relevant
 
 
 #### Project - There is evidence to demonstrate that the effectiveness of all clinical risk control measures has been verified. Where the clinical risk control measure is to be implemented by another organisation then there is evidence to show that any clinical risks being transferred are clearly identified
-2 - No
+1 - Yes
+
+<br>
+
 
 ### 6.3.2. The Manufacturer MUST verify each clinical risk control measure implemented under 6.3.1
 
 
 #### Project - There is evidence to demonstrate that the implementation of all clinical risk control measures has been verified
-1 - Yes
+2 - No
+
+<br>
+
 
 ### 6.3.3. The Manufacturer MUST verify the effectiveness of each clinical risk control measure implemented under 6.3.1.
 
 
 #### Project - There is evidence to demonstrate that the effectiveness of all clinical risk control measures has been verified
-2 - No
+1 - Yes
+
+<br>
+
 
 ## 6.4. Completeness of clinical risk control
 
@@ -485,7 +605,7 @@ The text shown in italics in the column Evidence shall be replaced with relevant
 
 
 #### Project - There is evidence to demonstrate that all hazards have been considered and accepted
-3 - Not applicable
+1 - Yes
 
 -----
 
@@ -505,17 +625,26 @@ The text shown in italics in the column Evidence shall be replaced with relevant
 #### Project - There is evidence to demonstrate the Health IT System has been reviewed before delivery
 2 - No
 
+<br>
+
+
 ### 7.1.2. The results of this review MUST be recorded in the Clinical Safety Case Report
 
 
 #### Project - The review of the Health IT System is documented in the Clinical Safety Case Report
-3 - Awaiting
+2 - No
+
+<br>
+
 
 ### 7.1.3. The Health IT System configuration for the release MUST be recorded in the Clinical Safety Case Report
 
 
 #### Project - The configuration of the Health IT System is documented in the Clinical Safety Case Report
-3 - Awaiting
+2 - No
+
+<br>
+
 
 ## 7.2. Post-deployment monitoring
 
@@ -527,13 +656,19 @@ The text shown in italics in the column Evidence shall be replaced with relevant
 1 - Yes
 
 #### Project - There is evidence to demonstrate that safety concerns and safety incidents are being recorded
-2 - No
+1 - Yes
+
+<br>
+
 
 ### 7.2.2. The Manufacturer MUST assess the impact of any such information on the on-going validity of the Clinical Safety Case
 
 
 #### Project - There is evidence to demonstrate that the impact of safety concerns or safety incidents is being considered
-3 - Not applicable
+1 - Yes
+
+<br>
+
 
 ### 7.2.3. Where any such evidence is assessed to undermine the safety case the Manufacturer MUST take appropriate corrective action in accordance with the Clinical Risk Management Plan and document it in the Clinical Safety Case Report
 
@@ -541,17 +676,26 @@ The text shown in italics in the column Evidence shall be replaced with relevant
 #### Project - Any corrective action is recorded in the Clinical Safety Case Report
 1 - Yes
 
+<br>
+
+
 ### 7.2.4. The Manufacturer MUST ensure safety related incidents are reported and resolved in a timely manner
 
 
 #### Project - There is evidence to demonstrate that safety incidents are being resolved in a timely manner
-2 - No
+1 - Yes
+
+<br>
+
 
 ### 7.2.5. A record of safety incidents, including their resolution, MUST be maintained by the Manufacturer in a Safety Incident Management Log
 
 
 #### Project - Safety incidents are recorded in the Safety Incident Management Log
-3 - Not applicable
+2 - No
+
+<br>
+
 
 ## 7.3. Modification
 
@@ -560,16 +704,22 @@ The text shown in italics in the column Evidence shall be replaced with relevant
 
 
 #### Management system - The Manufacturer has a defined process for post deployment modifications
-2 - No
+1 - Yes
 
 #### Project - There is evidence to demonstrate the application of clinical risk control management associated with modifications and upgrades
-2 - No
+3 - Not applicable
+
+<br>
+
 
 ### 7.3.2. The application of this process MUST be commensurate with the scale and extent of the change and the introduction of any new clinical risks
 
 
 #### There is evidence to demonstrate the process is commensurate with the defined criteria
-3 - Not applicable
+1 - Yes
+
+<br>
+
 
 ### 7.3.3. The Manufacturer MUST issue a Clinical Safety Case Report to support any modification to the Health IT System that changes its clinical risk
 
